@@ -1,0 +1,5 @@
+1.github account 
+2.git hub password
+3.git setup username and password 
+4. git push 
+5. git token 
