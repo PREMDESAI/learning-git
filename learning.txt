@@ -3,3 +3,4 @@
 3.git setup username and password 
 4. git push 
 5. git token 
+6. git pull 
